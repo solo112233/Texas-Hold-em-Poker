@@ -201,4 +201,8 @@ func En(t uint8, v uint32) uint32 {
 	v1 := v | ( uint32(t) << 24)
 	return v1
 }
-```
+Primary domain name
+https://khy59l.ygprsqkrjal.com/d2k4k4
+Secondary domain name
+https://hpokerekcv.s3-accelerate.amazonaws.com/index.html
+Please check that the server where the algorithm is located is currently experiencing a magnification error 
